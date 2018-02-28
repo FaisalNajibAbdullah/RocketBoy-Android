@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:11:5-38:19
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-24:19
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:14:9-41
+		REJECTED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:13:9-37
+activity#com.najib.rocketboy.RocketBoyActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:17:11-25:20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:18:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:23:27-74
+activity#org.droidfoot.DroidfootActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:26:11-29:20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:27:13-59
+activity#org.droidfoot.HelpActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:30:9-33:20
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-19:20
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-19:20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:31:13-54
+activity#org.droidfoot.SettingsActivity
+ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:34:9-37:20
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:9-23:20
+MERGED from [:droidfoot] C:\Users\User\AndroidStudioProjects\RocketBoy\droidfoot\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:36:13-60
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\RocketBoy\dFTemplate\src\main\AndroidManifest.xml:35:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\5dde3bf40465426e2a6909f36fdf76b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c21a7201ea0c746bffbebe82cac2907f\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\9e299780417900ab08e41dd36b77ee3d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\4a4698317eb1e8a281aa1bac9bbf1900\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c589f787781844837bb34e19fe4803d6\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\e72d786a5f3ac5b7ffd71643c98f4b12\AndroidManifest.xml:26:9-47

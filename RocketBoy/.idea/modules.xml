@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RocketBoy.iml" filepath="$PROJECT_DIR$/RocketBoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dFTemplate/dFTemplate.iml" filepath="$PROJECT_DIR$/dFTemplate/dFTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droidfoot/droidfoot.iml" filepath="$PROJECT_DIR$/droidfoot/droidfoot.iml" />
+    </modules>
+  </component>
+</project>

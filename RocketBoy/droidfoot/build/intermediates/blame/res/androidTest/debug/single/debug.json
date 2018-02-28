@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_speed.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\speed.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_menu_settings.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_menu_help.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_start.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_reset.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_start.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_droidfoot_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\droidfoot_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_reset.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_droidfoot.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_droidfoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_start.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_droidfoot_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\droidfoot_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml_preferences_old.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_stop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_speed.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\speed.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu_menu_droidfoot.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\menu\\menu_droidfoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_stop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_start.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_speed.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable\\speed.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_speed.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\speed.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_reset.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_reset.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_stop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_droidfoot_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable\\droidfoot_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_help.html.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\raw\\help.html"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_stop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_droidfoot_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\RocketBoy\\droidfoot\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\droidfoot_launcher.png"
+    }
+]
